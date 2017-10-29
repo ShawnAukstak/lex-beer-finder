@@ -1,0 +1,14 @@
+**/node_modules
+**/package-lock.json
+coverage
+combined_coverage
+out
+simple_cov
+workers/**/config.yml
+workers/**/*.zip
+npm-debug.log
+
+.DS_Store
+
+# Ignore virtual environments created for python
+venv
